@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "amount": 1000,
+      "type": "deposit",
+      "accountNumber": 1234567890,
+      "oldBalance": 0,
+      "newBalance": 1000,
+      "createdOn": ""
+    }
+]

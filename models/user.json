@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "  ",
+        "password": " ",
+        "type": "current",
+        "accountNumber": 1234567890,
+        "phoneNumber": " ",
+        "address": [],
+        "branch": " ",
+        "balance": 100
+    },
+    {
+        "id": 2,
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "email": " ",
+        "password": " ",
+        "type": "savings",
+        "accountNumber": 1234567890,
+        "phoneNumber": " ",
+        "address": [],
+        "branch": " ",
+        "balance": 100
+    },
+    {
+        "id": 116294442,
+        "email": "majji@dev.com",
+        "firstName": "majji",
+        "lastName": "kishore",
+        "password": "60f1de9962da86ef516679617d88c910a9853fc5f7540a6745c8d6f794ef7d50",
+        "accountNumber": 53314748807,
+        "branch": "Bangalore",
+        "address": [
+            "pune maharastra"
+        ],
+        "balance": 100
+    }
+]
